@@ -8,7 +8,7 @@ Sports odds API: DraftKings, FanDuel, BetRivers, Pinnacle, PrizePicks, Underdog 
 
 ```bash
 pip install getodds
-npm install getodds
+npm install getoddsapi
 npx -y getodds-mcp   # MCP server for Claude, Cursor and ChatGPT
 ```
 
